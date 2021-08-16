@@ -6,6 +6,12 @@ public class Unidad {
 	private int salud;
 	private int dinero;
 
+	private int borrar = 10;
+	private int borrar2 = 10;
+	private int borrar3 = 10;
+	private int borrar4 = 10;
+	
+	
 	private final int DANIO = 10;
 	private final int DINERO_INICIAL = 10;
 	private final int SALUD_INICIAL = 100;
