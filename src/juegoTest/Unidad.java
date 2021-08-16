@@ -5,13 +5,6 @@ public class Unidad {
 	private Posicion posicion;
 	private int salud;
 	private int dinero;
-
-	private int basdrar = 10;
-	private int borasdrar2 = 10;
-	private int boasdasrrar3 = 10;
-	private int boasdasdrrar4check = 10;
-	
-	
 	private final int DANIO = 10;
 	private final int DINERO_INICIAL = 10;
 	private final int SALUD_INICIAL = 100;
